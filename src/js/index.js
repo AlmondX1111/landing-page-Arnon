@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Function to navigate to the game page
     function navigateToGame() {
-        window.location.href = "https://ai-quantum-gaming-research-dev.netlify.app/";
+        window.location.href = "";
     }
 
     // Event listeners
